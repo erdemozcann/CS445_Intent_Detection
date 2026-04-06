@@ -19,6 +19,14 @@ Our project explores intent recognition and slot filling, key tasks in natural l
 9. **Neural Network with Bert**: Achieved an accuracy of **98%**.
 10. **Neural Network with TF-IDF**: Achieved an accuracy of **92%**.
 
+## Contributors
+
+This project was developed as a team effort by:
+- Kanat Özgen
+- Erdem Özcan (myself)
+- Gürsel Yiğit Pekgöz
+- Mert Coşkuner
+
 ## References
 
 - [Bi-Model for Intent and Slot](https://github.com/ray075hl/Bi-Model-Intent-And-Slot/tree/master)
