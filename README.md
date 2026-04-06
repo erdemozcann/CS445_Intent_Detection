@@ -22,8 +22,8 @@ Our project explores intent recognition and slot filling, key tasks in natural l
 ## Contributors
 
 This project was developed as a team effort by:
-- Kanat Özgen
 - Erdem Özcan (myself)
+- Kanat Özgen
 - Gürsel Yiğit Pekgöz
 - Mert Coşkuner
 
